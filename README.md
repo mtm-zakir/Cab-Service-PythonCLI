@@ -21,8 +21,4 @@ AC/ Non AC
 - See available vehicles in each category. 
 
 
-### Source Code
-in Repo
-
-
 <h1 align="center">Credits to M.T.M. Zakir</h1>
